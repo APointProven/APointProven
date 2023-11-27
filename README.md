@@ -1,5 +1,5 @@
 <div align="center">
-    <a href = 'https://www.x.com/APointProven'><img src="/APointProven.svg" alt="APointProven" height="150" /></a>
+    <a href = 'https://www.x.com/APointProven'><img src="/Twitter.png" alt="APointProven" height="max" width= "max" /></a>
 <div>&nbsp;</div>
 
 # APointProven
